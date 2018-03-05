@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Sample430</string>
+    <string name="app_name">5 Dinners 1 Hour</string>
+    <string name="username">Username:</string>
+    <string name="enter_here">enter here...</string>
+    <string name="password">Password:</string>
+    <string name="login_as_user">Login as User</string>
+    <string name="login_as_admin">Login as Admin</string>
+    <string name="create_recipe">Create Recipe</string>
+    <string name="create_grocery_list">create grocery list</string>
 </resources>
